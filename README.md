@@ -3,7 +3,7 @@
 
 #
 
-<h3 align="center"><b>MD</b></h3>
+<h3 align="center"><b> 🔴 🔴 > MD < 🔴 🔴 </b></h3>
 
 #
 
@@ -18,7 +18,7 @@
 
 #
 
-<h3 align="center"><b>UT</b></h3>
+<h3 align="center"><b> ⚫ ⚫ > UT < ⚫ ⚫  </b></h3>
 
 #
 
